@@ -3,3 +3,5 @@ hello
 blah blah blah new 4
 
 new branch (branch1)
+
+second commit to branch1
