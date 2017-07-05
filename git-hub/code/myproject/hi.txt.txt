@@ -2,4 +2,10 @@ hello
 
 blah blah blah new 4
 
+<<<<<<< HEAD
 branch2
+=======
+new branch (branch1)
+
+second commit to branch1
+>>>>>>> branch1
